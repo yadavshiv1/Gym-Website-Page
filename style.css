@@ -1,0 +1,47 @@
+body {
+    color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+    background-image: url('img/bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: 1520px;
+}
+
+.navbar {
+    display: block;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 12px auto;
+    padding-left: 300px;
+
+
+}
+
+.navbar li {
+    display: inline-block;
+    text-decoration: none;
+
+
+    /* margin-top: 5px; */
+}
+
+.navbar img {
+    
+}
+
+.container {
+    border: 2px solid darkblue;
+}
+
+.navbar {
+    border: 2px solid white;
+}
+
+.logo {
+    border: 2px solid white;
+    margin-right: 80%;
+}
+
+.logo img {
+    height: 200px;
+}
